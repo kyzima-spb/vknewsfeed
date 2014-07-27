@@ -1,0 +1,22 @@
+{
+    "name": "kyzima-spb/vknewsfeed",
+    "description": "News Feed of social network VKontakte, made in the style of Twitter user timeline.",
+    "version": "1.0",
+    "license": "MIT",
+    "homepage": "https://github.com/kyzima-spb/vknewsfeed",
+    "authors": [
+        {
+            "name": "Kirill Vercetti",
+            "email": "office@kyzima-spb.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "kyzimaspb\\vknewsfeed\\": ""
+        }
+    }
+}
